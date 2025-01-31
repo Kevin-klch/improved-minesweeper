@@ -1,8 +1,5 @@
-# React + Vite
+# Improved Minesweeper
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Just a 1:1 replica of Minesweeper with a new starting mechanism so can play every field and dont have to perma reset.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+If you find any bug consider to not tell me about it.
